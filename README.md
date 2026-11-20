@@ -1,7 +1,9 @@
 # MODICIA-Player
 Multimedia player optimized for MODICIA O.S.
 
-MODICIA O.S. Player is a native, high-performance media player engineered for Linux systems, built with Python 3, PyQt6, libmpv, and FFmpeg. Designed for professional-grade stability and zero-bloat efficiency, it delivers a smooth, intuitive playback experience across 35 languages.
+Cross-platform multimedia player optimized for MODICIA O.S. and Windows 11
+
+MODICIA O.S. Player is a native, high-performance cross-platform media player engineered for Linux systems and Windows 11, built with Python 3, PyQt6, libmpv, and FFmpeg. Designed for professional-grade stability and zero-bloat efficiency, it delivers a smooth, intuitive playback experience across 35 languages.
 
 Key Features:
 
@@ -16,6 +18,8 @@ Precision Control: Frame-accurate stepping, speed controls (2x–16x), and A/B l
 Audio Engine: 10-band graphic equalizer with presets and real-time audio waveform visualizer.
 
 Media Utilities: Detailed Media Info, instant frame capture, and matrix thumbnail generation.
+
+Licensed under GPLv3 + CC BY 4.0. Developed by Marco M. Mariani for MODICIA O.S.
 
 Licensed under GPLv3 + CC BY 4.0. Developed by Marco M. Mariani for MODICIA O.S.
 <img width="850" height="397" alt="re 0005" src="https://github.com/user-attachments/assets/063ce53c-68cc-4472-9334-7fb0ef563d93" />
